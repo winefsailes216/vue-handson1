@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Red+Hat+Display:ital@1&display=swap');
+body{
+    font-family: 'Kanit', sans-serif;
+}
+img{
+    border: 1px solid black;
+    /* width: 100px;
+    height: 100px; */
+}
+.color{
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: 5px;
+}

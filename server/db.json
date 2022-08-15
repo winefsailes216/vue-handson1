@@ -1,0 +1,171 @@
+{
+  "records": [
+    {
+      "id": 1001,
+      "imgurl": "https://www.popsci.com/uploads/2020/01/07/WMD5M52LJFBEBIHNEEABHVB6LA.jpg?auto=webp&width=1440&height=864",
+      "name": "Roberto",
+      "email": "email@email.com",
+      "jobDescription": "Web Developer",
+      "mobile": "12345678",
+      "companyName": "Kodego",
+      "salary": 100000,
+      "department": "Executive"
+    },
+    {
+      "id": 1002,
+      "imgurl": "https://www.popsci.com/uploads/2020/01/07/WMD5M52LJFBEBIHNEEABHVB6LA.jpg?auto=webp&width=1440&height=864",
+      "name": "Roberta",
+      "email": "Roberta@email.com",
+      "jobDescription": "Junior Web Developer",
+      "mobile": "12345678",
+      "companyName": "Kodego",
+      "salary": 112340,
+      "department": "Marketing"
+    },
+    {
+      "id": 1003,
+      "imgurl": "https://www.popsci.com/uploads/2020/01/07/WMD5M52LJFBEBIHNEEABHVB6LA.jpg?auto=webp&width=1440&height=864",
+      "name": "Fred",
+      "email": "Fred@email.com",
+      "jobDescription": "Senior Web Developer",
+      "mobile": "12345678",
+      "companyName": "Kodego",
+      "salary": 200420,
+      "department": "Finance"
+    },
+    {
+      "id": 1004,
+      "imgurl": "https://www.popsci.com/uploads/2020/01/07/WMD5M52LJFBEBIHNEEABHVB6LA.jpg?auto=webp&width=1440&height=864",
+      "name": "Kim",
+      "email": "Kim@email.com",
+      "jobDescription": "Senior Web Developer",
+      "mobile": "12345678",
+      "companyName": "Kodego",
+      "salary": 432420,
+      "department": "Human Resource"
+    },
+    {
+      "imageUrl": "https://image.pngaaa.com/345/1582345-middle.png",
+      "name": "awwwwww",
+      "email": "waww@www.k",
+      "jobDescription": "wawdawd",
+      "mobile": "1212",
+      "companyName": "asdasd",
+      "salary": 1111,
+      "department": "Executive",
+      "id": 1005
+    },
+    {
+      "imageUrl": "https://icons-for-free.com/download-icon-business+costume+male+man+office+user+icon-1320196264882354682_512.png",
+      "name": "awawaw",
+      "email": "awawaw@sss.s",
+      "jobDescription": "asdasdasd",
+      "mobile": "1111",
+      "companyName": "asdasdasd",
+      "salary": 11111,
+      "department": "Executive",
+      "id": 1006
+    },
+    {
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpd4mJRIUwqgE8D_Z2znANEbtiz4GhI4M8NQ&usqp=CAU",
+      "name": "wwwwww",
+      "email": "asdsad@w.w",
+      "jobDescription": "asd",
+      "mobile": "",
+      "companyName": "",
+      "salary": "",
+      "department": "Finance",
+      "id": 1007
+    },
+    {
+      "imageUrl": "",
+      "name": "",
+      "email": "",
+      "jobDescription": "",
+      "mobile": "",
+      "companyName": "",
+      "salary": "",
+      "department": "",
+      "id": 1008
+    },
+    {
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpd4mJRIUwqgE8D_Z2znANEbtiz4GhI4M8NQ&usqp=CAU",
+      "name": "121asdasd",
+      "email": "12122asda@fff.d",
+      "jobDescription": "asda",
+      "mobile": "111",
+      "companyName": "asdasd",
+      "salary": 12121212,
+      "department": "Executive",
+      "id": 1009
+    },
+    {
+      "id": 1010
+    },
+    {
+      "imageUrl": "https://www.visualpharm.com/free-icons/person-595b40b85ba036ed117da7ec",
+      "name": "Winefredo Siatana Sailes",
+      "email": "winefsailes216@gmail.com",
+      "jobDescription": "agent",
+      "mobile": "+639462869307",
+      "companyName": "sv",
+      "salary": 121212,
+      "department": "Finance",
+      "id": 1011
+    },
+    {
+      "imageUrl": "dada",
+      "name": "Akinola Oladipo",
+      "email": "jgvastartvirtual@gmail.com",
+      "jobDescription": "sv",
+      "mobile": "7622413664",
+      "companyName": "ddd",
+      "salary": 111,
+      "department": "Finance",
+      "id": 1012
+    },
+    {
+      "id": 1013
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/originals/ba/d4/5a/bad45a40fa6e153ef8d1599ba875102c.png",
+      "name": "girl",
+      "email": "girl@g.g",
+      "jobDescription": "clerk",
+      "mobile": "1111",
+      "companyName": "clerky",
+      "salary": 1111,
+      "department": "Human Resource",
+      "id": 1014
+    },
+    {
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/4842/4842456.png",
+      "name": "asdasd",
+      "email": "asdas@f.f",
+      "jobDescription": "asdasd",
+      "mobile": "11",
+      "companyName": "asd",
+      "salary": "",
+      "department": "Executive",
+      "id": 1015
+    }
+  ],
+  "department": [
+    {
+      "id": 1,
+      "departmentName": "Executive"
+    },
+    {
+      "id": 2,
+      "departmentName": "Finance"
+    },
+    {
+      "id": 3,
+      "departmentName": "Human Resource"
+    },
+    {
+      "id": 4,
+      "departmentName": "Marketing"
+    }
+  ]
+}
